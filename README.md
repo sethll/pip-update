@@ -5,7 +5,7 @@ Script to update pip and its packages, provided pip2 and pip3 are in your PATH
 ---
 
 ``` fish
-./pip-update.fish h
+$ ./pip-update.fish h
 USAGE:
   update-pip.fish [option] [system]
 
